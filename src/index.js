@@ -157,6 +157,7 @@ function calculateWinner(squares) {
   }
   return null;
 }
+
 class ShoppingList extends React.Component {
   render() {
     return (
